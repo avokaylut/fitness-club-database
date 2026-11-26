@@ -1,0 +1,8 @@
+{
+  "original_filename": "dump-fit_club-202605121523.sql",
+  "sha256": "7b970ffa3fda4c728924a8089856881ba2740e7c2a6bcbc7acbf50320ca0c246",
+  "original_preserved_byte_for_byte": true,
+  "source_database_version": "17.8",
+  "data": "Fictional educational data, as confirmed by the author",
+  "other_files": "Earlier SQLite files are not included in this PostgreSQL repository"
+}
