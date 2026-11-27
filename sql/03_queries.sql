@@ -1,4 +1,4 @@
--- Examples adapted to the supplied PostgreSQL schema during portfolio preparation.
+-- Example queries: membership purchases, attendance and equipment repairs.
 SET search_path = public;
 
 -- 1. Membership purchases by type. The amount uses the current catalogue price,

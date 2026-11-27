@@ -1,4 +1,4 @@
--- Corrections added during portfolio preparation; original definitions remain in 01.
+-- Membership and attendance functions. Apply after 01_restore.sql.
 
 CREATE OR REPLACE FUNCTION public."автоактивация_абонемента"() RETURNS trigger
 LANGUAGE plpgsql SET search_path = public, pg_temp AS $$
